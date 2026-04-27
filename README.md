@@ -18,7 +18,7 @@ This project predicts the selling price of used bikes using machine learning tec
 - Python
 - Pandas, NumPy
 - Matplotlib, Seaborn (for visualization)
-- Scikit-learn (Random Forest Regressor)
+- Random Forest Regressor(for prediction)
 - Jupyter Notebook
 
 ---
@@ -49,4 +49,4 @@ This project predicts the selling price of used bikes using machine learning tec
 ---
 
 ## Author
-Aishwarya Tuppad
+Aishwarya T
